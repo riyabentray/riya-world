@@ -1,0 +1,14 @@
+{
+    "name": "extentiontutorial/riya-world",
+    "authors": [
+        {
+            "name": "extentiontutorial"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "RiyaWorld": "src/"
+        }
+    }
+}
